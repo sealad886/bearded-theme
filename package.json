@@ -146,6 +146,11 @@
         "path": "./themes/bearded-theme-black-&-diamond.json"
       },
       {
+        "label": "Bearded Theme Black & Diamond (Colorblind)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bearded-theme-black-&-diamond-(colorblind).json"
+      },
+      {
         "label": "Bearded Theme Black & Diamond Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/bearded-theme-black-&-diamond-soft.json"
